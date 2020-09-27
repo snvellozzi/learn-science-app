@@ -6,3 +6,5 @@
 
 ## What's Next for Learn Science
 * We hope to build on the concepts taught through our app.
+
+![Display home screen](assets/Scienceapp.png)
